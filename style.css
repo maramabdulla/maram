@@ -1,0 +1,47 @@
+*{
+
+   
+}
+body{
+    background-color:whitesmoke;
+   
+
+}
+.contenter{
+   text-align: center;
+         width: 50%;
+         margin-left: 25%;
+         margin-top: 10%;
+}
+#img {
+    text-align: center;
+
+   
+}
+
+#name , #email , #pass {
+    border: none;
+    margin-bottom: 5px;
+    border-bottom: 1px solid gray;
+    width:50%;
+    height: 5%;
+    background-color: whitesmoke;
+outline: none
+}
+#but{
+    padding: 10px 20% 10px 23%;
+    background-color: blue;
+    border-radius: 5px;
+    border: blue;
+}
+
+.namerror {
+   
+    font-size: 12px;
+    background-color: red;
+}
+.passerror {
+    font-size: 15px;
+    color: red;
+
+}
